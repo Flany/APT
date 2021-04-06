@@ -1,0 +1,4 @@
+include ':api'
+include ':complier'
+include ':app'
+rootProject.name = "APT"
